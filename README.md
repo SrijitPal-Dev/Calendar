@@ -300,5 +300,5 @@ This project is part of a hiring assignment. All code remains the intellectual p
 
 ## Contact
 
-[Your email]
+srijit.social@gmail.com
 
